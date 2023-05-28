@@ -41,11 +41,13 @@
 
 ---
 
-<!-- Shadi Badir -->
 <div align="center">
 <h2>𝙵𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 📬</h2>
 
 <a href = "https://www.linkedin.com/in/eyabkabha/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
+
+  [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=eyabkabha&show_icons=true&theme=solarized-light)](https://github.com/eyabkabha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyabkabha&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
   </div>
